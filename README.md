@@ -12,8 +12,15 @@ I really want to learn JS. I actually want to learn JS very well. While theoreti
 
 Thanks to combining there two approaches I will (hopefully) understand programming principles and learn to use them effectively.
 
-I'll share my journey, results and advices for you, who also want to learn in order to build better things
-
 Thanks!
 
 ---
+## Table Of Contents
+
+1.  [JavaScript Drum Kit](/01%20-%20JavaScript%20Drum%20Kit)
+2.  [JS + CSS Clock](/02%20-%20JS%20and%20CSS%20Clock)
+3.  [CSS Variables](/03%20-%20CSS%20Variables)
+4.  [Array Cardio, Day 1](/04%20-%20Array%20Cardio%20Day%201/)
+5.  [Flex Panel Gallery](/05%20-%20Flex%20Panel%20Gallery/)
+6.  [Type Ahead](/06%20-%20Type%20Ahead/)
+7.  [Array Cardio, Day 2](/07%20-%20Array%20Cardio%20Day%202/)
