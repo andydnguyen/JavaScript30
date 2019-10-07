@@ -1,5 +1,8 @@
 # Practice 1 - Drum Kit
 
+## Demo
+https://andycodes.io/JavaScript30/01%20-%20JavaScript%20Drum%20Kit/
+
 ## Objective
 Build a drum kit that can be control via keyboard.
 
