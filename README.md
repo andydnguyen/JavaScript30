@@ -25,3 +25,5 @@ Thanks!
 6.  [Type Ahead](/06%20-%20Type%20Ahead/)
 7.  [Array Cardio, Day 2](/07%20-%20Array%20Cardio%20Day%202/)
 8.  [Fun with HTML5 Canvas](/08%20-%20Fun%20with%20HTML5%20Canvas)
+9.  [Dev Tools Domination](/09%20-%20Dev%20Tools%20Domination)
+
