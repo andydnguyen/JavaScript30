@@ -1,14 +1,17 @@
-# Practice 3 - CSS variables
+# Project 3 - CSS variables
 
 ## Demo
+
 https://andycodes.io/JavaScript30/03%20-%20CSS%20Variables/
 
 ## Objective
+
 Update CSS variables by inputs and JS.
 
 ## Procedure
 
 ### Markup
+
 Markup we need consists of label/input pairs. Important thing is custom data-attribute with unit.
 
 ```

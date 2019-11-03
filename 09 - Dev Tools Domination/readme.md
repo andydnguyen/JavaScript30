@@ -1,4 +1,4 @@
-# Practice 9 - Dev Tools Domination
+# Project 9 - Dev Tools Domination
 
 ## Objective
 

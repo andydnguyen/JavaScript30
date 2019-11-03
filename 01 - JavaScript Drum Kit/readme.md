@@ -1,15 +1,19 @@
-# Practice 1 - Drum Kit
+# Project 1 - Drum Kit
 
 ## Demo
+
 https://andycodes.io/JavaScript30/01%20-%20JavaScript%20Drum%20Kit/
 
 ## Objective
+
 Build a drum kit that can be control via keyboard.
 
 ## Procedure
+
 We start off with prepared HTML. Important details are:
 
 ### Markup
+
 Use of custom `data-key` attribute for keys&hellip;
 
 ```
@@ -32,6 +36,7 @@ Use of custom `data-key` attribute for keys&hellip;
 ### JavaScript
 
 First, wait for user input
+
 ```
 window.addEventListener('keydown', playSound);
 ```
@@ -82,4 +87,5 @@ function removeTransition(e) {
 ```
 
 ## TIL
+
 - [http://keycode.info/](http://keycode.info/) - site showing key codes
