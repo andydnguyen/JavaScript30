@@ -28,23 +28,23 @@ Thanks!
 8.  [Fun with HTML5 Canvas](/08%20-%20Fun%20with%20HTML5%20Canvas)
 9.  [Dev Tools Domination](/09%20-%20Dev%20Tools%20Domination)
 10. [Hold Shift and Check Checkboxes](/10%20-%20Hold%20Shift%20and%20Check%20Checkboxes)
-11. []()
-12. []()
-13. []()
-14. []()
-15. []()
-16. []()
-17. []()
-18. []()
-19. []()
-20. []()
-21. []()
-22. []()
-23. []()
-24. []()
-25. []()
-26. []()
-27. []()
-28. []()
-29. []()
-30. []()
+11. [Custom HTML5 Video Player](11%20-%20Custom%20Video%20Player)
+12. [Key Sequence Detection](12%20-%20Key%20Sequence%20Detection)
+13. [Slide In on Scroll](13%20-%20Slide%20in%20on%20Scroll)
+14.
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+22.
+23.
+24.
+25.
+26.
+27.
+28.
+29.
+30.
