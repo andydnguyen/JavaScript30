@@ -31,20 +31,4 @@ Thanks!
 11. [Custom HTML5 Video Player](11%20-%20Custom%20Video%20Player)
 12. [Key Sequence Detection](12%20-%20Key%20Sequence%20Detection)
 13. [Slide In on Scroll](13%20-%20Slide%20in%20on%20Scroll)
-14.
-15.
-16.
-17.
-18.
-19.
-20.
-21.
-22.
-23.
-24.
-25.
-26.
-27.
-28.
-29.
-30.
+14. [JS Reference VS Copy](14%20-%20JavaScript%20References%20VS%20Copying)
