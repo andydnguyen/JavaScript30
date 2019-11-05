@@ -1,4 +1,4 @@
-# Practice 13 - Slide In on Scroll
+# Project 13 - Slide In on Scroll
 
 ## Demo
 
