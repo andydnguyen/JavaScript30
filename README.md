@@ -33,3 +33,4 @@ Thanks!
 13. [Slide In on Scroll](13%20-%20Slide%20in%20on%20Scroll)
 14. [JS Reference VS Copy](14%20-%20JavaScript%20References%20VS%20Copying)
 15. [LocalStorage and Event Delegation](15%20-%20LocalStorage)
+16. [CSS Text Shadow Mouse Move Effect](16%20-%20Mouse%20Move%20Shadow)
