@@ -34,3 +34,4 @@ Thanks!
 14. [JS Reference VS Copy](14%20-%20JavaScript%20References%20VS%20Copying)
 15. [LocalStorage and Event Delegation](15%20-%20LocalStorage)
 16. [CSS Text Shadow Mouse Move Effect](16%20-%20Mouse%20Move%20Shadow)
+17. [Sort Without Articles](17%20-%20Sort%20Without%20Articles)
