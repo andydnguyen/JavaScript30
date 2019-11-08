@@ -35,3 +35,4 @@ Thanks!
 15. [LocalStorage and Event Delegation](15%20-%20LocalStorage)
 16. [CSS Text Shadow Mouse Move Effect](16%20-%20Mouse%20Move%20Shadow)
 17. [Sort Without Articles](17%20-%20Sort%20Without%20Articles)
+18. [Adding Up Times with Reduce](18%20-%20Adding%20Up%20Times%20with%20Reduce)
