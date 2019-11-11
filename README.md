@@ -17,6 +17,7 @@ Thanks!
 ---
 
 ## Table Of Contents
+
 | Project | Demo | Source Code | 
 | ----------- | ----------- | ----------- |
 | 1.  JavaScript Drum Kit | [Demo](https://andycodes.io/JavaScript30/01%20-%20JavaScript%20Drum%20Kit/) | [Source Code](https://github.com/andydnguyen/JavaScript30/tree/master/01%20-%20JavaScript%20Drum%20Kit) |
