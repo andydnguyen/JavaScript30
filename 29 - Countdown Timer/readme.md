@@ -1,8 +1,18 @@
-let countdown;
-const timerDisplay = document.querySelector('.display__time-left');
-const endTime = document.querySelector('.display__end-time');
-const buttons = document.querySelectorAll('[data-time]');
+# Project 29 - Countdown Time
 
+## Demo
+
+https://andycodes.io/JavaScript30/29%20-%20Countdown%20Timer
+
+## Objective
+
+For this project, I built a countdown timer.
+
+## JavaScript
+
+To set the timer, I used setInterval():
+
+```
 function timer(seconds) {
   // clear any existing timers
   clearInterval(countdown);
@@ -22,7 +32,11 @@ function timer(seconds) {
     displayTimeLeft(secondsLeft);
   }, 1000);
 }
+```
 
+To display the time left:
+
+```
 function displayTimeLeft(seconds) {
   const minutes = Math.floor(seconds / 60);
   const remainderSeconds = seconds % 60;
@@ -33,7 +47,11 @@ function displayTimeLeft(seconds) {
   document.title = display;
   console.log({ minutes, remainderSeconds });
 }
+```
 
+To display the end time:
+
+```
 function DisplayEndTime(timestamp) {
   const end = new Date(timestamp);
   const hour = end.getHours();
@@ -42,16 +60,4 @@ function DisplayEndTime(timestamp) {
     minutes < 10 ? '0' : ''
   }${minutes}`;
 }
-
-function startTimer() {
-  const seconds = parseInt(this.dataset.time);
-  timer(seconds);
-}
-
-buttons.forEach(button => button.addEventListener('click', startTimer));
-document.customForm.addEventListener('submit', function(e) {
-  e.preventDefault();
-  const mins = this.minutes.value;
-  timer(mins * 60);
-  this.reset();
-});
+```
